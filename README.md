@@ -50,9 +50,7 @@ Open the index.html file in your web browser to view the website.
 ## Team
 - **Huda Bani Mustafa**202210130: integrating plugins/designed the website logo using Adobe illustrator 2024 - page : Home / Explore(Gallery)/Blog.
  
-- **Shahd Moath** 202221200: Name Websiete- page : About /log in / Find tickets.
 
-- **Dalal Madani** 202211231: page : Booking /Contact us /read more.
 
 
 
